@@ -45,13 +45,13 @@ Topics:
 
 Programs:
 
- 1.  [Calculate the length of a string](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE5/M5_1.py)
- 2.  [Write a Python function that takes a list of words and returns the length of the longest one](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE5/M5_2.py)
- 3. [Change the even index elements of list to '#'](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE5/M5_3.py)
- 4. [Check if a list is empty or not](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE5/M5_4.py)
- 5. [Clone or copy a list](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE5/M5_5.py)
+ 1.  [Calculate the length of a string](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/158d012604741547e70240d9a94c5147e1ff6205/module%205/task%205.1.py)
+ 2.  [Write a Python function that takes a list of words and returns the length of the longest one]https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/158d012604741547e70240d9a94c5147e1ff6205/module%205/task%205.2.py
+ 3. [Change the even index elements of list to '#'](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/158d012604741547e70240d9a94c5147e1ff6205/module%205/task%205.3.py)
+ 4. [Check if a list is empty or not](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/158d012604741547e70240d9a94c5147e1ff6205/module%205/task%205.4.py)
+ 5. [Clone or copy a list](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/158d012604741547e70240d9a94c5147e1ff6205/module%205/task%205.5.py)
 
-## [MODULE 6 :](https://github.com/CharuTamar/SIG-PYTHON/tree/main/MODULE6)
+## MODULE 6
 Topics:
 -   Dictionary in python
 -   Tuple in python
