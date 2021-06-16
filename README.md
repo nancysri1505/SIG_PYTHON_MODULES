@@ -1,7 +1,7 @@
 # SIG_PYTHON_MODULES
 
 
-## [MODULE 1 :]
+## [MODULE 1]
 Topics:
 
  - Python Installation
