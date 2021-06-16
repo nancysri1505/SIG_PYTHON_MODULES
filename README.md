@@ -25,7 +25,7 @@ Programs:
  3. [Find GCD of two numbers](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/a3b7a45941fa072548cc6ab5300a2d818745290b/module%203/program%203.py)
  4. [Find sum of all even numbers from 0-10](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/a3b7a45941fa072548cc6ab5300a2d818745290b/module%203/program%204.py)
 
-## [MODULE 4 :](https://github.com/CharuTamar/SIG-PYTHON/tree/main/MODULE4)
+## MODULE 4:
 Topics:
 
  -   Taking input from user
@@ -34,11 +34,11 @@ Topics:
 
 Programs:
 
- 1. [Print even numbers in the range 1-50 using continue statement](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE4/M4_1.py)
- 2. [Print the sum of digits of a number entered by a user](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE4/M4_2.py)
- 3. [Find the median of three vlaues](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE4/M4_3.py)
+ 1. [Print even numbers in the range 1-50 using continue statement](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/027bcd01fce4b0f24f5f3c35ca8810d6578065e3/module%204/task%204.1.py)
+ 2. [Print the sum of digits of a number entered by a user](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/027bcd01fce4b0f24f5f3c35ca8810d6578065e3/module%204/task%204.2.py)
+ 3. [Find the median of three vlaues](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/027bcd01fce4b0f24f5f3c35ca8810d6578065e3/module%204/task%204.3.py)
 
-## [MODULE 5 :](https://github.com/CharuTamar/SIG-PYTHON/tree/main/MODULE5)
+## MODULE 5
 Topics:
 -   Strings in python
 -   List in python
