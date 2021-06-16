@@ -1,17 +1,4 @@
-print("Nancy Srivastava 1900300109006")
-print("hello world")
-def gcd(x, y):
-    gcd = 1
-
-    if x % y == 0:
-        return y
-
-    for k in range(int(y / 2), 0, -1):
-        if x % k == 0 and y % k == 0:
-            gcd = k
-            break
-    return gcd
-
-
-print(gcd(12, 17))
-print(gcd(4, 6))
+set1= {8,9,10,17,18}
+print("the element of set are :",set1)
+set1.remove(18)
+print("after removing the element of set are: ",set1)
