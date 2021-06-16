@@ -59,12 +59,12 @@ Topics:
 
 Programs:
 
- 1. [Create an empty dictionary and add 5 elements in it](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE6/M6_1.py)
- 2. [Create and print a dictionary that contains number(1 to 10) as key and their square as corresponding values](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE6/M6_2.py)
- 3. [Print the sum of all the items in a dictionary](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE6/M6_3.py)
- 4. [Create 3 sets and perform union, intersection and set difference operations on them](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE6/M6_4.py)
+ 1. [Create an empty dictionary and add 5 elements in it](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/858beda629ed0c36e6664226c8655a4ece20c9d6/module%206/task%206.1.py)
+ 2. [Create and print a dictionary that contains number(1 to 10) as key and their square as corresponding values](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/858beda629ed0c36e6664226c8655a4ece20c9d6/module%206/task%206.2.py)
+ 3. [Print the sum of all the items in a dictionary](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/858beda629ed0c36e6664226c8655a4ece20c9d6/module%206/task%206.3.py)
+ 4. [Create 3 sets and perform union, intersection and set difference operations on them](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/858beda629ed0c36e6664226c8655a4ece20c9d6/module%206/task%206.4.py)
 
-## [MODULE 7 :](https://github.com/CharuTamar/SIG-PYTHON/tree/main/MODULE7)
+## MODULE 7
 Topics:
 -   User-defined Function in python
 -   Modules in python
