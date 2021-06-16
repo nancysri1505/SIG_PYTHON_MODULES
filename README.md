@@ -10,6 +10,7 @@ Program:
 
  1. [Print Hello World](first.py)
 
+
 ## MODULE 3:
 Topics:
 
@@ -19,10 +20,10 @@ Topics:
 
 Programs:
 
- 1. [Print Fibonacci series between 0-50](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE3/M3_1.py)
- 2. [Check whether a triangle is isosceles, scalene or equilateral](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE3/M3_2.py)
- 3. [Find GCD of two numbers](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE3/M3_3.py)
- 4. [Find sum of all even numbers from 0-10](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE3/M3_4.py)
+ 1. [Print Fibonacci series between 0-50]
+ 2. [Check whether a triangle is isosceles, scalene or equilateral]
+ 3. [Find GCD of two numbers]
+ 4. [Find sum of all even numbers from 0-10]
 
 ## [MODULE 4 :](https://github.com/CharuTamar/SIG-PYTHON/tree/main/MODULE4)
 Topics:
