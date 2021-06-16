@@ -46,7 +46,7 @@ Topics:
 Programs:
 
  1.  [Calculate the length of a string](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/158d012604741547e70240d9a94c5147e1ff6205/module%205/task%205.1.py)
- 2.  [Write a Python function that takes a list of words and returns the length of the longest one]https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/158d012604741547e70240d9a94c5147e1ff6205/module%205/task%205.2.py
+ 2.  [Write a Python function that takes a list of words and returns the length of the longest one](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/158d012604741547e70240d9a94c5147e1ff6205/module%205/task%205.2.py)
  3. [Change the even index elements of list to '#'](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/158d012604741547e70240d9a94c5147e1ff6205/module%205/task%205.3.py)
  4. [Check if a list is empty or not](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/158d012604741547e70240d9a94c5147e1ff6205/module%205/task%205.4.py)
  5. [Clone or copy a list](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/158d012604741547e70240d9a94c5147e1ff6205/module%205/task%205.5.py)
