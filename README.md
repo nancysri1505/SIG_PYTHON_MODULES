@@ -1,7 +1,7 @@
 # SIG_PYTHON_MODULES
 
 
-## [MODULE 1 :](https://github.com/CharuTamar/SIG-PYTHON/tree/main/MODULE1)
+## [MODULE 1 :]
 Topics:
 
  - Python Installation
