@@ -21,7 +21,7 @@ Topics:
 Programs:
 
  1. [Print Fibonacci series between 0-50](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/49c31d47a1a53cbc35d72c3f675b14ee44f87a9e/module%203/task2.py)
- 2. [Check whether a triangle is isosceles, scalene or equilateral]
+ 2. [Check whether a triangle is isosceles, scalene or equilateral](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/76a54830c7885b5d8f7bd948d0ddc80ec720d923/module%203/program%202.py)
  3. [Find GCD of two numbers]
  4. [Find sum of all even numbers from 0-10]
 
