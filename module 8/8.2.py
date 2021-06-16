@@ -1,13 +1,5 @@
-print("Nancy Srivastava 1900300109006")
-print("hello world")
-print("enter the lengths of the triangle sides: ")
-a = int(input("a: "))
-b = int(input("b: "))
-c = int(input("c: "))
-
-if a == b == c:
-	print("Equilateral triangle")
-elif a==b or b==c or c==a:
-	print("isosceles triangle")
-else:
-	print("Scalene triangle")
+find_even = [1,90,45,56,7,89,22]
+print("elements in the list are:",find_even)
+for num in find_even:
+    if num % 2 == 0:
+        print("even elements in the list are:",num)
