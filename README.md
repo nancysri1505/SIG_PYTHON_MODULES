@@ -73,7 +73,7 @@ Topics:
 Programs:
 
  1.  [Write a python function to multiply all the numbers in a list](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/73f9c886ae048fd50b17eab84f5745790cafe8ec/module%207/7.1.py)
- 2. [Write a python function to check whether a number is in a given range](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/73f9c886ae048fd50b17eab84f5745790cafe8ec/module%207/7.1.py)
+ 2. [Write a python function to check whether a number is in a given range](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/73f9c886ae048fd50b17eab84f5745790cafe8ec/module%207/7.2.py)
 
 ## MODULE 8 
 Topics:
@@ -82,12 +82,12 @@ Topics:
 
 Programs:
 
- 1. [Print the sum of all the items in a list using list comprehension](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE8/M8_1.py)
- 2. [Write one line code that takes a list and makes a new list that has only the even elements](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE8/M8_2.py)
- 3. [Remove items from set](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE8/M8_3.py)
- 4. [Multiply all the items in a dictionary](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE8/M8_4.py)
+ 1. [Print the sum of all the items in a list using list comprehension](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/b3773a59f24a70127b3462a69628be03d5c1cbe4/module%208/8.1.py)
+ 2. [Write one line code that takes a list and makes a new list that has only the even elements](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/b3773a59f24a70127b3462a69628be03d5c1cbe4/module%208/8.1.py)
+ 3. [Remove items from set](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/b3773a59f24a70127b3462a69628be03d5c1cbe4/module%208/8.1.py)
+ 4. [Multiply all the items in a dictionary](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/b3773a59f24a70127b3462a69628be03d5c1cbe4/module%208/8.1.py)
 
-## [MODULE 9 :](https://github.com/CharuTamar/SIG-PYTHON/tree/main/MODULE9)
+## MODULE 9
 Topics:
 -   File Handling in Python
 
