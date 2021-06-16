@@ -104,8 +104,7 @@ Topics:
 
 Programs:
 
- 1. [Create a circle class and initialize it with radius. Make two methods getArea and getCircumference inside this circle](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE10/M10_1.py)
- 2. [Create a student class and initialize it with name and roll no. Make methods to display , setAge and setMarks](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE10/M10_2.py)
-
+ 1. [Create a circle class and initialize it with radius. Make two methods getArea and getCircumference inside this circle](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/6c8477ec1d2e40edd42dd38492f1128cbed2cbee/module%2010/10.1.py)
+ 2. [Create a student class and initialize it with name and roll no. Make methods to display , setAge and setMarks](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/6c8477ec1d2e40edd42dd38492f1128cbed2cbee/module%2010/10.2.py)
 
 
