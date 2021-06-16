@@ -72,10 +72,10 @@ Topics:
 
 Programs:
 
- 1.  [Write a python function to multiply all the numbers in a list](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE7/M7_1.py)
- 2. [Write a python function to check whether a number is in a given range](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE7/M7_2.py)
+ 1.  [Write a python function to multiply all the numbers in a list](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/73f9c886ae048fd50b17eab84f5745790cafe8ec/module%207/7.1.py)
+ 2. [Write a python function to check whether a number is in a given range](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/73f9c886ae048fd50b17eab84f5745790cafe8ec/module%207/7.1.py)
 
-## [MODULE 8 :](https://github.com/CharuTamar/SIG-PYTHON/tree/main/MODULE8)
+## MODULE 8 
 Topics:
 -   Lists and Dictionary in Python
 -   List Comprehension in Python
