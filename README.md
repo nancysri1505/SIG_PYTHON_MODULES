@@ -83,9 +83,9 @@ Topics:
 Programs:
 
  1. [Print the sum of all the items in a list using list comprehension](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/b3773a59f24a70127b3462a69628be03d5c1cbe4/module%208/8.1.py)
- 2. [Write one line code that takes a list and makes a new list that has only the even elements](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/b3773a59f24a70127b3462a69628be03d5c1cbe4/module%208/8.1.py)
- 3. [Remove items from set](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/b3773a59f24a70127b3462a69628be03d5c1cbe4/module%208/8.1.py)
- 4. [Multiply all the items in a dictionary](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/b3773a59f24a70127b3462a69628be03d5c1cbe4/module%208/8.1.py)
+ 2. [Write one line code that takes a list and makes a new list that has only the even elements](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/b3773a59f24a70127b3462a69628be03d5c1cbe4/module%208/8.2.py)
+ 3. [Remove items from set](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/b3773a59f24a70127b3462a69628be03d5c1cbe4/module%208/8.3.py)
+ 4. [Multiply all the items in a dictionary](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/b3773a59f24a70127b3462a69628be03d5c1cbe4/module%208/8.4.py)
 
 ## MODULE 9
 Topics:
@@ -93,12 +93,12 @@ Topics:
 
 Programs:
 
- 1. [Read first n lines of a file](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE9/M9_1.py)
- 2. [Append text to a file and display the text](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE9/M9_2.py)
- 3. [Count the number of lines in a text file](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE9/M9_3.py)
- 4. [Write a list to a file](https://github.com/CharuTamar/SIG-PYTHON/blob/main/MODULE9/M9_4.py)
+ 1. [Read first n lines of a file](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/a06a4ec64a38c48a575c11f6f5df3e0026ff49a1/module%209/9.1.py)
+ 2. [Append text to a file and display the text](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/a06a4ec64a38c48a575c11f6f5df3e0026ff49a1/module%209/9.2.py)
+ 3. [Count the number of lines in a text file](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/a06a4ec64a38c48a575c11f6f5df3e0026ff49a1/module%209/9.3.py)
+ 4. [Write a list to a file](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/a06a4ec64a38c48a575c11f6f5df3e0026ff49a1/module%209/9.4.py)
 
-## [MODULE 10 :](https://github.com/CharuTamar/SIG-PYTHON/tree/main/MODULE10)
+## MODULE 10
 Topics:
 -   Classes and Objects in Python
 
