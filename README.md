@@ -82,10 +82,10 @@ Topics:
 
 Programs:
 
- 1. [Print the sum of all the items in a list using list comprehension](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/b3773a59f24a70127b3462a69628be03d5c1cbe4/module%208/8.1.py)
- 2. [Write one line code that takes a list and makes a new list that has only the even elements](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/b3773a59f24a70127b3462a69628be03d5c1cbe4/module%208/8.2.py)
- 3. [Remove items from set](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/b3773a59f24a70127b3462a69628be03d5c1cbe4/module%208/8.3.py)
- 4. [Multiply all the items in a dictionary](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/b3773a59f24a70127b3462a69628be03d5c1cbe4/module%208/8.4.py)
+ 1. [Print the sum of all the items in a list using list comprehension](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/c008e4ae61c95b8497a0e03597314381cb0ad72c/module%208/8.1.py)
+ 2. [Write one line code that takes a list and makes a new list that has only the even elements](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/c008e4ae61c95b8497a0e03597314381cb0ad72c/module%208/8.2.py)
+ 3. [Remove items from set](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/c008e4ae61c95b8497a0e03597314381cb0ad72c/module%208/8.3.py)
+ 4. [Multiply all the items in a dictionary](https://github.com/nancysri1505/SIG_PYTHON_MODULES/blob/c008e4ae61c95b8497a0e03597314381cb0ad72c/module%208/8.4.py)
 
 ## MODULE 9
 Topics:
