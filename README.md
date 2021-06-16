@@ -1,7 +1,7 @@
 # SIG_PYTHON_MODULES
 
 
-## MODULE 1: (https://github.com/)
+## MODULE 1:
 Topics:
 
  - Python Installation
@@ -10,7 +10,7 @@ Program:
 
  1. [Print Hello World](first.py)
 
-## [MODULE 3 :](https://github.com/nancysri1505/SIG_PYTHON_MODULES.tree/main/MODULE 3)
+## MODULE 3:
 Topics:
 
  - Conditional Statements
